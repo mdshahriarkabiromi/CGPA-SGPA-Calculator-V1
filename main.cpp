@@ -11,7 +11,7 @@ int main()
         int semester_number,sgpa;
         cout<<"Enter the number of completed semester: "<<endl;
         cin>>semester_number;
-        int Total_sgpa=0;
+        float Total_sgpa=0;
         for (int i = 1; i <= semester_number; i++)
         {
             cout<<"Enter the sgpa of semester "<<i<<endl;
