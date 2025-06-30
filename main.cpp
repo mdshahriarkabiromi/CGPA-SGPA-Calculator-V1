@@ -65,7 +65,7 @@ int main()
     }
 
     cout << "\n---------------------------" << endl;
-    cout << "Project Developed by: Shahriar & RimJhim" << endl;
+    cout << "All Right Reserved by: Shahriar & RimJhim" << endl;
     cout << "---------------------------" << endl;
 
     return 0;
